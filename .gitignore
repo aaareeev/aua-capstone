@@ -1,0 +1,23 @@
+# Data
+data/raw/
+data/processed/
+data/external/
+
+# Results
+results/checkpoints/
+logs/
+
+# Environment
+env/.venv/
+env/*.lock
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Notebooks output
+*.out

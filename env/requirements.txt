@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+torch
+pytorch-lightning
+matplotlib
+seaborn
+jupyter
+pyyaml
+tqdm
+pyarrow
+duckdb
