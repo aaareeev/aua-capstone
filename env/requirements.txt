@@ -11,3 +11,4 @@ pyyaml
 tqdm
 pyarrow
 duckdb
+polars

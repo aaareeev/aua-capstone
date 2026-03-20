@@ -8,8 +8,10 @@ results/checkpoints/
 logs/
 
 # Environment
-env/.venv/
+env/
+.venv/
 env/*.lock
+env/
 
 # OS
 .DS_Store

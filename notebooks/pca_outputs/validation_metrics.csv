@@ -1,0 +1,5 @@
+metric,value
+silhouette_score,0.3453
+davies_bouldin_index,0.9812
+mean_ARI_stability,0.9838
+std_ARI_stability,0.0023
