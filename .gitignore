@@ -31,3 +31,19 @@ __pycache__/
 # optional: ignore large artifacts
 *.png
 *.csv
+
+cat <<EOF > .gitignore
+# models
+*.pt
+*.pth
+
+# python
+.venv/
+__pycache__/
+
+# outputs
+*.png
+*.csv
+*.npy
+*.pkl
+EOF
