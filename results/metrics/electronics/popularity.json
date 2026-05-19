@@ -1,0 +1,11 @@
+{
+  "HR@10": 0.5438,
+  "NDCG@10": 0.3549,
+  "AUC": 0.7883,
+  "n_users": 181273,
+  "split": "test",
+  "elapsed_s": 200.0,
+  "model": "Popularity",
+  "epochs": 0,
+  "dataset": "amazon_electronics_5core"
+}

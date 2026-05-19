@@ -1,0 +1,12 @@
+{
+  "HR@10": 0.1986,
+  "NDCG@10": 0.123,
+  "AUC": 0.5067,
+  "n_users": 181273,
+  "split": "test",
+  "elapsed_s": 284.8,
+  "model": "MF-BPR",
+  "epochs": 1,
+  "dataset": "amazon_electronics_5core",
+  "checkpoint": "/Users/arevikmelikyan/Desktop/Capstone_C2C_Behavioral_Dynamics/results/checkpoints/mf_bpr_electronics/mf_bpr_epoch1.pt"
+}

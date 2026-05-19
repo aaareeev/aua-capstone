@@ -1,0 +1,12 @@
+{
+  "HR@10": 0.1996,
+  "NDCG@10": 0.1253,
+  "AUC": 0.5136,
+  "n_users": 575342,
+  "split": "test",
+  "elapsed_s": 997.8,
+  "model": "MF-BPR",
+  "epochs": 1,
+  "dataset": "amazon_books_5core",
+  "checkpoint": "/Users/arevikmelikyan/Desktop/Capstone_C2C_Behavioral_Dynamics/results/checkpoints/mf_bpr_books/mf_bpr_epoch1.pt"
+}

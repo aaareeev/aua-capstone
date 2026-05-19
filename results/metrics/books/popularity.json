@@ -1,0 +1,11 @@
+{
+  "HR@10": 0.5058,
+  "NDCG@10": 0.327,
+  "AUC": 0.7615,
+  "n_users": 575342,
+  "split": "test",
+  "elapsed_s": 881.5,
+  "model": "Popularity",
+  "epochs": 0,
+  "dataset": "amazon_books_5core"
+}

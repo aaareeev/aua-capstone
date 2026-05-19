@@ -1,0 +1,12 @@
+{
+  "HR@10": 0.4656,
+  "NDCG@10": 0.3013,
+  "AUC": 0.7487,
+  "n_users": 575342,
+  "split": "test",
+  "elapsed_s": 40950.9,
+  "model": "GRU4Rec",
+  "epochs": 1,
+  "dataset": "amazon_books_5core",
+  "checkpoint": "/Users/arevikmelikyan/Desktop/Capstone_C2C_Behavioral_Dynamics/results/checkpoints/gru4rec_books/gru4rec_epoch1.pt"
+}

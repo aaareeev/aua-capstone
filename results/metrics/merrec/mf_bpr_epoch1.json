@@ -1,0 +1,12 @@
+{
+  "HR@10": 0.0765,
+  "NDCG@10": 0.0331,
+  "AUC": 0.5016,
+  "n_users": 171631,
+  "split": "test",
+  "elapsed_s": 342.9,
+  "model": "MF-BPR",
+  "epochs": 1,
+  "dataset": "merrec_balanced_2M",
+  "checkpoint": "/Users/arevikmelikyan/Desktop/Capstone_C2C_Behavioral_Dynamics/results/checkpoints/mf_bpr_merrec/mf_bpr_epoch1.pt"
+}

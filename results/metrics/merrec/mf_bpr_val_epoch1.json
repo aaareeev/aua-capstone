@@ -1,0 +1,9 @@
+{
+  "HR@10": 0.0912,
+  "NDCG@10": 0.0474,
+  "AUC": 0.5092,
+  "n_users": 171631,
+  "split": "val",
+  "elapsed_s": 621.6,
+  "model": "MF-BPR"
+}

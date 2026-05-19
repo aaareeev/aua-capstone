@@ -1,0 +1,12 @@
+{
+  "HR@10": 0.0437,
+  "NDCG@10": 0.0166,
+  "AUC": 0.4797,
+  "n_users": 171631,
+  "split": "test",
+  "elapsed_s": 21599.5,
+  "model": "GRU4Rec",
+  "epochs": 1,
+  "dataset": "merrec_balanced_2M",
+  "checkpoint": "/Users/arevikmelikyan/Desktop/Capstone_C2C_Behavioral_Dynamics/results/checkpoints/gru4rec_merrec/gru4rec_epoch1.pt"
+}

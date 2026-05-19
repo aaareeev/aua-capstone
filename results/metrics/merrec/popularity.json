@@ -1,0 +1,11 @@
+{
+  "HR@10": 0.0214,
+  "NDCG@10": 0.0171,
+  "AUC": 0.3536,
+  "n_users": 171631,
+  "split": "test",
+  "elapsed_s": 212.4,
+  "model": "Popularity",
+  "epochs": 0,
+  "dataset": "merrec_balanced_2M"
+}

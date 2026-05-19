@@ -1,0 +1,9 @@
+{
+  "HR@10": 0.0413,
+  "NDCG@10": 0.0329,
+  "AUC": 0.3635,
+  "n_users": 171631,
+  "split": "val",
+  "elapsed_s": 535.8,
+  "model": "Popularity"
+}
