@@ -57,5 +57,5 @@ pip install -r requirements.txt
 | Dataset | AUC | vs. DIEN |
 |---|---|---|
 | MerRec | 0.8529 | — |
-| Amazon Electronics | 0.7792 | ✅ Matches |
-| Amazon Books | 0.8798 | ✅ Surpasses (0.8453) |
+| Amazon Electronics | 0.7792 |  Matches |
+| Amazon Books | 0.8798 | Surpasses (0.8453) |
