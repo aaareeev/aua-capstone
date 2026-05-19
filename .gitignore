@@ -30,7 +30,7 @@ __pycache__/
 
 # optional: ignore large artifacts
 *.png
-*.csv
+
 
 cat <<EOF > .gitignore
 # models

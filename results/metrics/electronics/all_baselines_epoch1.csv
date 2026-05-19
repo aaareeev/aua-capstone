@@ -1,0 +1,5 @@
+model,HR@10,NDCG@10,AUC,vs_dien,epochs,dataset
+Popularity,0.5438,0.3549,0.7883,0.0091,1,amazon_electronics_5core
+MF-BPR,0.1986,0.123,0.5067,-0.2725,1,amazon_electronics_5core
+GRU4Rec,0.5238,0.3428,0.7783,-0.0009,1,amazon_electronics_5core
+UMAG v6,,,,,1,amazon_electronics_5core

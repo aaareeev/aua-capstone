@@ -1,0 +1,5 @@
+model,HR@10,NDCG@10,AUC,epochs,dataset
+Popularity,0.0214,0.0171,0.3536,1,merrec_balanced_2M
+MF-BPR,0.0765,0.0331,0.5016,1,merrec_balanced_2M
+GRU4Rec,0.0437,0.0166,0.4797,1,merrec_balanced_2M
+UMAG v6,,,,1,merrec_balanced_2M

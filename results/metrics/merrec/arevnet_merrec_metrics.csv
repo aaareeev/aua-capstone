@@ -1,0 +1,9 @@
+metric,value
+auc_roc,0.8529
+log_loss,0.4988
+gate_session_mean,0.0716
+gate_short_mean,0.1707
+gate_long_mean,0.7577
+dominant_scale,Long-term
+eval_samples,50000
+pos_rate,0.4

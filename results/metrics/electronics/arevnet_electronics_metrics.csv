@@ -1,0 +1,9 @@
+metric,value
+auc_roc,0.7979
+ndcg_at_10,0.29
+hr_at_10,0.4868
+n_eval_users,38479
+gate_session_mean,0.1189
+gate_short_mean,0.1073
+gate_long_mean,0.7738
+dominant_scale,Long    (all older)

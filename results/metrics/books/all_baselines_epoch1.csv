@@ -1,0 +1,5 @@
+model,HR@10,NDCG@10,AUC,epochs,dataset
+Popularity,0.5058,0.327,0.7615,1,amazon_books_5core
+MF-BPR,0.1996,0.1253,0.5136,1,amazon_books_5core
+GRU4Rec,0.4656,0.3013,0.7487,1,amazon_books_5core
+UMAG v6,,,,1,amazon_books_5core
